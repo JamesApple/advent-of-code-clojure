@@ -1,0 +1,5 @@
+.lein*
+target
+.clj*
+.lsp*
+.nrepl*
